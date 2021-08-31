@@ -20,13 +20,13 @@
   </a>
 
 ```bash
-> git clone https://github.com/Samu330/NyanBot
+> git clone https://github.com/Felilu19/LUZAICK-BOT
 ```
 
 ## Inicia la Instalacion:
 
 ```bash
-> cd NyanBot
+> cd LUZAICK-BOT
 > bash install.sh
 ```
 
